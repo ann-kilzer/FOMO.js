@@ -1,5 +1,5 @@
 {
-  "name": "ann-kilzer/fomo.js",
+  "name": "ann-kilzer/fomo",
   "version": "1.0.0",
   "description": "Don't fall behind the rapidly evolving javascript ecosystem",
   "main": "index.js",
