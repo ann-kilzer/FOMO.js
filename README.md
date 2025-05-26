@@ -9,3 +9,11 @@ FOMO.js keeps you on the bleeding edge.
 
 Don't get left behind. Remember, it could be the person *using* FOMO.js who takes your job!
 
+
+Nokia. Blackberry. Circuit City. The Sharper Image. Compaq. Netscape.
+
+What do these failing companies have in common? 
+
+None of them adopted FOMO.js into their consumer value lifecycle. 
+
+ADOPT. OR FALL BEHIND.
