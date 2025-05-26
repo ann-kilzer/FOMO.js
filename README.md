@@ -1,3 +1,5 @@
+# FOMO.js
+
 In today's rapidly evolving technological landscape, keeping up with the latest technology isn't enough. One must be ahead of the curve in order to truly deliver value in this ever-shifting world of limitless value.
 
 Web 3. Web 4. Web 5?
