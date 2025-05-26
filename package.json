@@ -1,14 +1,14 @@
 {
-  "name": "ann-kilzer/fomo",
+  "name": "ann-kilzer/fomojs",
   "version": "1.0.0",
   "description": "Don't fall behind the rapidly evolving javascript ecosystem",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "exit 0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ann-kilzer/FOMO.js.git"
+    "url": "git+https://github.com/ann-kilzer/fomojs.git"
   },
   "keywords": [
     "javascript",
@@ -18,7 +18,7 @@
   "author": "ann-kilzer",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ann-kilzer/FOMO.js/issues"
+    "url": "https://github.com/ann-kilzer/fomojs/issues"
   },
-  "homepage": "https://github.com/ann-kilzer/FOMO.js#readme"
+  "homepage": "https://github.com/ann-kilzer/fomojs#readme"
 }
